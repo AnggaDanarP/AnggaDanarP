@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm a blockchain developer from Indonesia. I enjoy learning and exploring blockchain technology, especially in the EVM environment, and I will continue to broaden my knowledge on. My principle is to learn like a junior, work like a senior.
+I just like when the block is connected to the chain. 
 
 
 ## 🌐 Socials:
